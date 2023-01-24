@@ -9,8 +9,6 @@ public class comparisonExample{
 		System.out.println("a>b :"+(a<=b));
 		System.out.println("a>b :"+(a==b));
 		System.out.println("a>b :"+(a!=b));
-		System.out.println((a>b)&&(a<b));
-		System.out.println((a>b)||(a<b));
 	}
 	public static void main(String arg[]){
 		comparisonExample c = new comparisonExample();
